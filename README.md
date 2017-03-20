@@ -4,7 +4,7 @@ Early beta, but working
 
 Bargraph library https://github.com/prampec/LcdBarGraph (to change)
 
-Hardware compatibile with Raduino
+Hardware compatibile with Raduino.
 Tuning  - encoder instead of pot.
 
 Copyleft for ham radio non commertial use
