@@ -3,6 +3,7 @@ Raduino based vfo for BitX
 Early beta, but working
 
 Bargraph library https://github.com/prampec/LcdBarGraph (to change)
+
 Hardware compatibile with Raduino
 Tuning  - encoder instead of pot.
 
